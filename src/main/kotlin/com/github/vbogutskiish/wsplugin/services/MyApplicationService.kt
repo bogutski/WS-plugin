@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.vbogutskiish.wsplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.vbogutskiish.wsplugin.MyBundle
 
 class MyApplicationService {
 
